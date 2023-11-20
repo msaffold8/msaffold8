@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hey there! 👋
 
-<!--
-**msaffold8/msaffold8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Adventurous developer with a growth mindset, always ready to take on challenges. I love collaborating and problem-solving. Currently transitioning from a Product Manager Role.
 
-Here are some ideas to get you started:
+## 💻 Currently Working On
+Full stack web applications with React, JS, Tailwind, Node, SQL. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧐Currently Learning
+AWS, AI, TypeScript, and MongoDB. 
+
+## 🤝Looking to Collaborate On
+Entrepreneurial opportunites and innovative ideas. 
+
+## 💬 Ask Me About
+Anything tech-related!
+
+## 📫 How to Reach Me
+Let's connect! find me on [LinkedIn](https://www.linkedin.com/in/mel-saffold-48b71745/)
+
+🚀
