@@ -6,7 +6,8 @@ I'm a software developer with a growth mindset, always ready to take on challeng
 - 🧐 Currently learning AWS, AI, TypeScript, MySQL, and MongoDB. 
 - 🤝 Looking to collaborate on entrepreneurial opportunites and innovative ideas. 
 - 💬 Ask me about anything tech-related!
-- 📫 Let's connect! find me on [LinkedIn](https://www.linkedin.com/in/mel-saffold-48b71745/)
+- 📫Let's connect! find me on [LinkedIn](https://www.linkedin.com/in/mel-saffold-48b71745/) 
+- 🕸 https://www.melsaffold.com/
 
 🚀
 
